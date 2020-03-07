@@ -1,8 +1,7 @@
 git init
 git status
-git add . (ou nomedo arquivo)
+git add . (ou nomedo arquivo) (Sempre sobe pasta)
 git commit -m "Mensagem colocar"
-
 
 
 … Ou envie um repositório existente a partir da linha de comando
