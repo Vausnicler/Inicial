@@ -1,0 +1,13 @@
+touch = criando arquivos
+mkdir = criando pasta
+mv = mover pasta
+* = mover tudo dentro da pasta
+rm = remover 
+cp = copiar e colar
+cd (nome pasta) = entrar na pasta
+cd .. = sair da pasta 
+ls = localizar dentro da pasta
+pwd = localizar todo o caminho da pasta
+sudo = comando adm
+sudo su = entrar como super usuario
+clear = limpar comando
