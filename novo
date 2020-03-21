@@ -7,3 +7,7 @@ git add .
 git commit -m "...."
 
 git push
+
+
+Camandos simplicado para clonar, subir arquivos mas precisa estar dentro da pasta
+
